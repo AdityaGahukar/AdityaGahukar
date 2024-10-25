@@ -128,9 +128,11 @@
   </tr>
 </table>
 
+<details>
+  <summary>  <b>📊 GitHub Stats</b> </summary>
+  <p><img align="left" width="100%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityagahukar&show_icons=true&locale=en&layout=compact" alt="adityagahukar" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityagahukar&show_icons=true&locale=en&layout=compact" alt="adityagahukar" /></p>
+  <p>&nbsp;<img align="center" width="100%" height="175px" src="https://github-readme-stats.vercel.app/api?username=adityagahukar&show_icons=true&locale=en" alt="adityagahukar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityagahukar&show_icons=true&locale=en" alt="adityagahukar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityagahukar&" alt="adityagahukar" /></p>
+  <p><img align="right" width="100%" height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=adityagahukar&" alt="adityagahukar" /></p>
+</details>
