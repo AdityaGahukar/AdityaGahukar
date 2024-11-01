@@ -128,6 +128,8 @@
   </tr>
 </table>
 
+[![An image of @adityagahukar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityagahukar)](https://holopin.io/@adityagahukar)
+
 <details>
   <summary>  <b>📊 GitHub Stats</b> </summary>
   <p><img align="left" width="100%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityagahukar&show_icons=true&locale=en&layout=compact" alt="adityagahukar" /></p>
