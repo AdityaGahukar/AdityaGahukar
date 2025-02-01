@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/hello.gif" width="29px">, I'm Aditya Gahukar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Console&size=40&duration=3000&pause=1000&color=F3F3F3&vCenter=true&width=600&lines=Hi%2C+I+am+Aditya+Gahukar+%F0%9F%91%8B)](https://git.io/typing-svg)
+<h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **adityagahukar@gmail.com**
 
@@ -19,9 +19,9 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
-      </a>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/> 
+      </a> 
       <br>Html5
     </td>
     <td align="center" width="96">
@@ -121,7 +121,7 @@
     </td>
     <td align="center" width="96">
       <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
     </td>
@@ -137,4 +137,10 @@
   <p>&nbsp;<img align="center" width="100%" height="175px" src="https://github-readme-stats.vercel.app/api?username=adityagahukar&show_icons=true&locale=en" alt="adityagahukar" /></p>
 
   <p><img align="right" width="100%" height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=adityagahukar&" alt="adityagahukar" /></p>
+</details>
+
+<details>
+  <summary><b>📊 LeetCode Stats</b></summary>
+  
+  ![LeetCode user adityagahukar](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fadityagahukar&logo=leetcode&logoColor=yellow)
 </details>
